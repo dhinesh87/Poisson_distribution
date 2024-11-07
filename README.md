@@ -1,6 +1,5 @@
 # Ex:01 Fitting Poisson  distribution
-# Name: Dhinesh M 
-# Register number: 212223040040
+
 # Date :7.11.2024
 # Aim : 
 
@@ -32,6 +31,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+Developed by Dhinesh M 21212223040040
 ```
 import numpy as np
 import math
