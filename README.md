@@ -1,6 +1,7 @@
-# Fitting Poisson  distribution
+# Ex:01 Fitting Poisson  distribution
 # Name: Dhinesh M 
 # Register number: 212223040040
+# Date :7.11.2024
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
